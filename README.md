@@ -1,2 +1,2 @@
-# TheQuiz
-This is a Python Program of a Simple Quiz
+This a Python Program for a Simple Quiz
+
